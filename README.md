@@ -54,3 +54,5 @@ Deverá ser entregue:
 • Testes de unidade para as classes de embaralhamento
 
 • O link para um video disponibilizado de forma aberta com a gravação de uma partida do seu jogo 
+
+https://github.com/hiiaagooo/coursera-final-project/blob/main/Diagrama.png?raw=true [diagrama]
