@@ -46,6 +46,7 @@ pontuação, por exemplo) crie um método na interface Embaralhador que
 retorne sua dificuldade.
 
 Deverá ser entregue:
+
 • O código criado para o jogo
 
 • O diagrama de classes com todas as classes criadas
